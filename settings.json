@@ -7,9 +7,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 25565,
-    "version": "1.21.1"
+    "ip": "BloxNovax.aternos.me2",
+    "port": 21619,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
